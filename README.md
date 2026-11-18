@@ -85,22 +85,24 @@ A aplicação ficará disponível em `http://localhost:5173`.
 
 ---
 
-## 🧩 Ecossistema de Projetos (Trilha AI Builder)
+## 🧩 Ecossistema de Projetos (Trilha AI Builder — 5 Soluções)
 
-Este projeto integra uma suíte de soluções práticas focadas em **Automação de Processos, Orquestração de IA e Segurança Operacional**:
+Este repositório faz parte de uma suíte de **5 projetos práticos** focados em **Automação de Processos, Orquestração de IA e Eficiência Operacional**:
 
 | # | Projeto | Foco Técnico | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | [**SentinelAI SOC Dashboard**](https://sentinelai-soc-dashboard.netlify.app/) | Monitoramento SOC, visualização de alertas e triagem de segurança | ✅ No Ar |
 | **02** | [**NetPulse AI Orchestrator**](https://orquestrador-multi-agente-de-logs-dia.netlify.app/) *(Este repositório)* | Orquestração multi-agente para logs de redes, diagnóstico OSI e SecOps | ✅ No Ar |
-| **03** | **Unstructured-to-JSON Engine** | Extração estruturada de dados e classificação operacional com IA | 🚧 Em Desenvolvimento |
+| **03** | **Unstructured-to-JSON Engine** | Extração estruturada de dados e classificação operacional a partir de textos livres | 🚧 Em Desenvolvimento |
+| **04** | **Zero-Backend Webhook Connector** | Integração ágil de eventos operacionais via webhooks (`n8n` / `Make` / `Zapier`) | ⏳ Em Breve (Roadmap) |
+| **05** | **OpsProtocol RAG Copilot** | Copiloto de conformidade, consulta rápida a POPs e mediação de crises em tempo real | ⏳ Em Breve (Roadmap) |
 
 ---
 
 <div align="center">
 
 ### 👨‍💻 Desenvolvido por **Rafael Trajano**
-*Tecnólogo em Redes de Computadores (Média 9,83) • Graduando em Sistemas de Informação*  
+*Tecnólogo em Redes de Computadores • Graduando em Sistemas de Informação*  
 **AI Builder | Orquestração de Agentes | Automação de Sistemas | Segurança da Informação**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaatrjnbpbs47)
